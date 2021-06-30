@@ -1,9 +1,5 @@
 #include<iostream>
 #include<algorithm>
-#include<vector>
-#include<memory.h>
-#include<string>
-#include<queue>
 using namespace std;
 
 int a, b, c;
